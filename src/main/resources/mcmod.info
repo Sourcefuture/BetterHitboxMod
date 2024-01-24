@@ -1,0 +1,16 @@
+[
+{
+  "modid": "betterrender",
+  "name": "betterrender Mod",
+  "description": "Optimize the original game rendering.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["0x7C01"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
